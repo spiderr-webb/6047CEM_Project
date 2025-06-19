@@ -42,5 +42,6 @@ The program can be run from the CLI by navigating to the project directory and r
 
 ## Documentation
 
-The developer documentation for this program is provided in the form of 
-docstrings and comments in the source-code.
+`6047CEM_Project_Report.docx` contains the report that was written as part of this project, describing the research that was undertaken. It has been included in this repository in order to provide further information on the program that is stored here.
+
+Additional documentation for this program is also provided in the form of docstrings and comments in the source-code.
